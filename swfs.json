@@ -1,10 +1,10 @@
 {
   "swfs": [
     {
-      "location": "logo-anim.swf",
-      "title": "Ruffle Logo",
-      "author": "Ruffle contributors",
-      "authorLink": "https://ruffle.rs",
+      "location": "swfs/Pixlr_editor-7.1.21b.swf",
+      "title": "Pixlr Editor",
+      "author": "pixlr,formerlegend3323",
+      "authorLink": "",
       "config": {
         "autoplay": "on",
         "backgroundColor": "#31497D",
